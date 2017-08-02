@@ -49,3 +49,10 @@ Bamazon is a node.js application that allows users to interact with a MySQL data
 ### Adding new items for sale 
 
 ![Screenshot](/bamazonManager06.png)
+
+## Required Packages
+Running `npm install` will install the below required packages.
+
+- [CLI-TABLE](https://www.npmjs.com/package/cli-table) (add tables to your command line interface)
+- [INQUIRER](https://www.npmjs.com/package/inquirer) (create interactive prompts and menus)
+- [MYSQL](https://www.npmjs.com/package/mysql) (links MySQL to Node.js)
