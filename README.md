@@ -10,8 +10,7 @@ Bamazon is a node.js application that allows users to interact with a MySQL data
 4. Make a selection from the options and follow the proceeding prompts.
 5. Be amazed at how seemless node makes interacting with MySQL using JavaScript.
 
-## Screenshots
-### bamazonCustomer.js
+## Screenshots: bamazonCustomer.js
 ### Main menu
 
 ![Screenshot](/bamazonCustomer01.png)
