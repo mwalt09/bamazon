@@ -32,12 +32,20 @@ Bamazon is a node.js application that allows users to interact with a MySQL data
 
 ![Screenshot](/bamazonManager01.png)
 
+### Products for sale
+
 ![Screenshot](/bamazonManager02.png)
 
+### Low Inventory
+
 ![Screenshot](/bamazonManager03.png)
+
+### Purchasing more stock
 
 ![Screenshot](/bamazonManager04.png)
 
 ![Screenshot](/bamazonManager05.png)
+
+### Adding new items for sale 
 
 ![Screenshot](/bamazonManager06.png)
